@@ -7,9 +7,7 @@ Primary goal of the project is to recommend products to customer after dividing 
 
 2. Studying customer behaviour and predicting customer lifetime value
 
-4. Recommendation using product rating and reviews  
-
-Whereas the secondary goal is to find and analysis the reasons for customer dissatisfaction and coming up with optimal solutions.   
+4. Recommendation using product rating and reviews    
 
 
 
