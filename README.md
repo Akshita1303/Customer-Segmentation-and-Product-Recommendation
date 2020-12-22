@@ -31,17 +31,15 @@ Customer Segmentation is the process of dividing the similar customer into homog
 
 Using the Clustering technique and by combining olist_customers_dataset, olist_geolocation_dataset, olist_orders_dataset, olist_products_dataset and olist_products_dataset we will divide our customers into different segments on the basis of:
 
-1. Geography
+1. Recency
 
-2. Demography
+2. Frequency
 
-3. Behaviour
+3. Customer Lifetime Value
 
 4. Revenue Generation
 
-Next step is to find the Customer Lifetime Value. Customer Lifetime Value (CLV), represents the total amount of money a customer is expected to spend in your business, or on your products, during their lifetime. By the equation below, we can have Lifetime Value for each customer in that specific time window:  Total Gross Revenue – Total Cost
-
-By calculating lifetime value for each customer we will know what products are we supposed to recommend them.
+Customer Lifetime Value (CLV), represents the total amount of money a customer is expected to spend in your business, or on your products, during their lifetime. By the equation below, we can have Lifetime Value for each customer in that specific time window:  Total Gross Revenue – Total Cost
 
 Taking all the above points into consideration we’ll build a recommendation system using olist_products_dataset, olist_order_reviews_dataset and olist_customers_dataset. 
 
